@@ -1,4 +1,4 @@
-name: Cypress tests
+name: Tic Tac Toe tests
 on: [push]
 jobs:
   cypress-run:
