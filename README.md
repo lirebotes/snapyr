@@ -1,4 +1,4 @@
-![Tic Tac Toe tests](https://github.com/lirebotes/snapyr/actions/workflows/Tic Tac Toe tests/badge.svg)
+![Cypress Tests](https://github.com/lirebotes/snapyr/actions/workflows/run-tic-tac-toe.yml/badge.svg)
 
 # Cypress Demo Test
 Cypress Demo Test is a repo that serves as a example on how to setup and configure cypress along with github actions as well as Cypress dashboard.
